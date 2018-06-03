@@ -1,0 +1,14 @@
+{
+  "name": "Sailor-Vick",
+  "version": "1.0.0",
+  "description": "Bot By V",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yukio"
+}
